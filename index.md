@@ -23,9 +23,7 @@ Story Maps are a relatively new and unique way of telling stories by using maps,
 ## *[Story Map Cascade]*
 The Story Map Cascade allows you to create an engaging scrolling experience that is full screen. Using this option allows you to add narrative, images, videos and much more. Sections can be separated by immersive sections with animations and transitions.
 
-#### Making a Story Map Cascade
-
-##### Getting Started
+#### Getting Started
 1. In order to locate the older story map templates, visit this [website](https://storymaps-classic.arcgis.com/en/app-list/?buildApp=true).
 2. Locate the Story Map Cascade and select **Build**.
 
@@ -33,7 +31,7 @@ The Story Map Cascade allows you to create an engaging scrolling experience that
 
 3. Login to your esri account and continue to Cascade Builder. 
 
-##### Title Page
+#### Title Page
 1. The first thing you should do here is add a title. Simply enter the text into the box.
 
 ![Title](images/Title.PNG)
@@ -65,7 +63,7 @@ The Story Map Cascade allows you to create an engaging scrolling experience that
 ![Background](images/Background.PNG)
 
 
-##### Adding Text
+#### Adding Text
 1. To add to your story, click the white arrow at the bottom of the page.
 
 ![Arrow](images/Arrow.PNG)
@@ -92,7 +90,7 @@ The Story Map Cascade allows you to create an engaging scrolling experience that
 
 ![Color](images/Color.PNG)
 
-##### Adding Media
+#### Adding Media
 1. Next we will add media. Click **+** and **Media**
 
 ![Media](images/Media.PNG)
@@ -116,7 +114,7 @@ The Story Map Cascade allows you to create an engaging scrolling experience that
 
 ![Add](images/Add.PNG)
 
-##### Adding Narrative
+#### Adding Narrative
 1. Click the circle under the title.
 
 ![Circle](images/Circle.PNG)
@@ -133,7 +131,7 @@ The Story Map Cascade allows you to create an engaging scrolling experience that
 
 ![Added](images/Added.PNG)
 
-##### Adding an Immersive Section
+#### Adding an Immersive Section
 1. After clicking the circle, select **Immersive**.
 
 ![Immersive](images/Immersive.PNG)
@@ -169,7 +167,7 @@ The Story Map Cascade allows you to create an engaging scrolling experience that
 
 ![Done](images/Done.PNG)
 
-##### Finishing Up
+#### Finishing Up
 
 1. To change the logo, add bookmarks or change appearance of headings and text as a whole, click the **Tool** icon.
 
