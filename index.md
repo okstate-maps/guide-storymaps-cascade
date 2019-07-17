@@ -6,15 +6,14 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 ## Table of Contents
 - Introduction 
 - *[Story Map Cascade]*
-- - Making a Story Map Cascade
-- - - Getting Started
-- - - Title Page
-- - - Adding Text
-- - - Adding Media
-- - - Adding a Title Section
-- - - Adding Narrative
-- - - Adding an Immersive Section
-- - - Finishing Up
+- - Getting Started
+- - Title Page
+- - Adding Text
+- - Adding Media
+- - Adding a Title Section
+- - Adding Narrative
+- - Adding an Immersive Section
+- - Finishing Up
 - Conclusion
 - Further Reading/Resources
 
