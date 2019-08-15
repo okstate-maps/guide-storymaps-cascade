@@ -18,7 +18,7 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - Further Reading/Resources
 
 ## Introduction
-Story Maps are a relatively new and unique way of telling stories by using maps, images and videos. Esri offers many different Story Map templates that can be utilized for a multitude of projects and purposes.
+Story Map Cascade allows you to create a full screen, engaging scrolling experience. Using this option allows you to add narrative, images, videos and much more. Sections can be separated by immersive sections with animations and stylish transitions.
 
 ## *[Story Map Cascade]*
 The Story Map Cascade allows you to create an engaging scrolling experience that is full screen. Using this option allows you to add narrative, images, videos and much more. Sections can be separated by immersive sections with animations and transitions.
